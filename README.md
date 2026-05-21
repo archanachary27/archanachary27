@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Archana 👋
 
-<!--
-**archanachary27/archanachary27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Learning DSA and React  
+🚀 Building frontend projects  
+📚 Preparing for placements  
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- React
+- DSA
+- Git & GitHub
+
+## Goals
+- Build strong React projects
+- Improve problem solving skills
+- Crack software developer interviews
