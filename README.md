@@ -3,7 +3,7 @@
 🎓 CSE Student  
 💻 Learning DSA and React  
 🚀 Building frontend projects  
-📚 Preparing for placements  
+📚 Preparing for placements
 
 ## Skills
 - HTML
