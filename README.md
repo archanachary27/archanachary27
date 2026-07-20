@@ -1,22 +1,38 @@
 # Hi, I'm Archana 👋
 
 🎓 CSE Student  
-💻 Learning DSA and React  
-🚀 Building frontend projects  
+💻 Learning DSA and AI
+🚀 Building projects  
 📚 Preparing for placements
 
 ## Skills
-- HTML
-- CSS
-- JavaScript
-- Python
-
+Programming & Databases
+    - C language
+    - Java
+    - Python
+    - SQL
+Web Development
+    - HTML
+    - CSS
+    - JavaScript
+Core Concepts
+    - Data Structures
+    - Object Oriented Programming(OOPs)
+    - Database Management Systems
+Fundamentals
+    - Core Coding Fundamentals
+    - Problem Solving
+Basics
+    - Operating Systems
+    - Computer Networks
+    - System Design
 ## Currently Learning
-- React
+- MERN Stack
 - DSA
-- Git & GitHub
+- Artifical Intelligence
+- Compiler Design
 
 ## Goals
-- Build strong React projects
+- Build strong projects
 - Improve problem solving skills
 - Crack software developer interviews
