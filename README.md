@@ -1,32 +1,42 @@
 # Hi, I'm Archana 👋
 
 🎓 CSE Student  
-💻 Learning DSA and AI
+💻 Learning DSA and AI  
 🚀 Building projects  
 📚 Preparing for placements
 
 ## Skills
-Programming & Databases
+**Programming & Databases**
+    
     - C language
     - Java
     - Python
     - SQL
-Web Development
+    
+**Web Development**
+    
     - HTML
     - CSS
     - JavaScript
-Core Concepts
+**Core Concepts**
+    
     - Data Structures
     - Object Oriented Programming(OOPs)
     - Database Management Systems
-Fundamentals
+
+**Fundamentals**
+   
     - Core Coding Fundamentals
     - Problem Solving
-Basics
+
+**Basics**
+
     - Operating Systems
     - Computer Networks
     - System Design
+
 ## Currently Learning
+
 - MERN Stack
 - DSA
 - Artifical Intelligence
